@@ -1,2 +1,1 @@
-# Hello-Project---Arda-Ardiyansyah
-coba-coba
+A simple command-line application.
